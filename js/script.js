@@ -7,6 +7,6 @@ var colore = prompt("Digita il tuo colore preferito");
 
 var risultato = nome+cognome+colore+21;
 
-document.write(risultato)
+document.write(risultato);
 
 
